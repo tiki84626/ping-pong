@@ -21,9 +21,6 @@ function pingPong(numArray) {
 }
 
 
-
-alert(pingPong(createNumberArray(30)));
-
 $(document).ready(function() {
 
 
