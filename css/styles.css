@@ -1,7 +1,16 @@
-.page-header {
+.jumbotron {
   text-align: center;
   background-color: rgb(244,222,182);
 
+}
+
+body {
+  background-color: rgb(230,230,230);
+}
+
+#display-list {
+  display: none;
+  margin-top: 10px;
 }
 
 .col-xs-3 {
